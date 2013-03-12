@@ -23,6 +23,8 @@ Zeus Roadmap
                 about-us.html
                 contact-us.html
 
+  For each step commit changes to github
+
   On project:
 
     Information architecture:
