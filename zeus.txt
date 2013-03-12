@@ -1,3 +1,73 @@
-Zeus
+Zeus Roadmap
 
-hola
+  Before project:
+
+    Hosting and Domain:
+      Search for a cloud hosting with the following features:
+        free is possible
+        flask application
+
+    Naming and code conventions:
+      define the names for all files
+
+    Structure of the project:
+        define and create structure for the project:
+          /site
+            /www
+              site.py
+              /static
+                /css
+                /images
+              /templates
+                index.html
+                about-us.html
+                contact-us.html
+
+  On project:
+
+    Information architecture:
+      Organization system:
+        write a schema depicting the site organization
+    
+      Labeling system:
+        build the vocabulary of the site 
+
+      Navigation system:
+        build the navigation system, links...
+
+      Compile the whole text content of the site:
+        add lorem ipsum
+ 
+    Implementation of the site:
+    
+      create the markup (html) for the content:
+        research doctypes declarations
+        create a basic template with the following:
+          doctype
+          /html
+            /head
+              /title
+              /link
+            /body
+              /header
+                /img
+                /h1
+              /nav
+              /section
+              /section
+
+      create the styles for the site:
+        basic layout of 1 colum
+        typografy: 
+          look for common families font, use first the standar ones
+        color:
+          search for a web safe palettes
+  
+      add images to the site
+        search for a free source image database
+        estabilish common sizes for images
+
+    Upload the site
+        create a script that upload the site to internet
+    
+      
